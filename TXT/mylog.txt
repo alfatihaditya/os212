@@ -12,3 +12,6 @@ ZCZC W01  45 L09 Assignment in General
 ZCZC W01  20 L21 Trying something (nano, vim, text editor stuff)
 ZCZC W01 120 L14 Assignment #04
 ZCZC W01  60 L15 Assignment #05
+ZCZC W01 150 L06 L04 GitHub Pages related (experimenting lot of things using my other github account)
+ZCZC W01  25 L16 Assignment #06
+ZCZC W01   5 L17 Assignment #07
