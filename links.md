@@ -1,0 +1,11 @@
+---
+permalink: /LINKS/
+---
+---
+### | [HOME](https://alfatihaditya.github.io/os212/)  | [REPO](https://github.com/alfatihaditya/os212)  | [LOG](/TXT/mylog.txt) | [LINKS]()  |
+---
+## Interesting Links
+
+### 1. [Linus Tech Tips - 10 Ways Linux is Better](https://www.youtube.com/watch?v=mAFMJ1LnQu8)
+It's Linus. "Interesting" is his middle name.<br>
+A YouTube video btw.
