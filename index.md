@@ -2,7 +2,7 @@
 ---
 
 # GitHub Page of Al![alt text](RESOURCE/jujutsu-kaisen-0-gojo-resized.jpg)'s OS212 Repository
----
+
 | [HOME]()  | [REPO](https://github.com/alfatihaditya/os212)  | [LOG](/TXT/mylog.txt) | [LINKS](LINKS) |
 
 Welcome to my GitHub Page for OS212 Course Repository!<br>
