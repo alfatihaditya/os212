@@ -2,7 +2,7 @@
 permalink: /LINKS/
 ---
 | [HOME](https://alfatihaditya.github.io/os212/)  | [REPO](https://github.com/alfatihaditya/os212)  | [LOG](/TXT/mylog.txt) | [LINKS]()  |
-| --- | --- | --- | --- |
+
 ## Interesting Links
 I love YouTube. So, expect more YouTube videos here XD.
 
