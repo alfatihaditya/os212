@@ -22,6 +22,6 @@ The video is in Bahasa Indonesia.
 Bash scripting related YouTube video (in English).<br>
 A bit like an introduction for Bash.
 
-### 5. [The full Bash scripting course](https://www.youtube.com/watch?v=e7BufAVwDiM)
+### 5. [The Full Bash Scripting Course](https://www.youtube.com/watch?v=e7BufAVwDiM)
 A full course for bash scripting (3 hours long).<br>
 Same YouTube channel as #4 link.
