@@ -19,5 +19,9 @@ A great YouTube video to get started with AWK.<br>
 The video is in Bahasa Indonesia.
 
 ### 4. [Bash S01 E01 | What is Bash? How to Run Your First Bash Script ? by linuxhint](https://www.youtube.com/watch?v=Vesn0Jpe80M)
-Bash scripting related (in English).<br> 
-If you like how he explains things, you might want to see [the full Bash scripting course (3 hours long)](https://www.youtube.com/watch?v=e7BufAVwDiM) from him.
+Bash scripting related YouTube video (in English).<br>
+A bit like an introduction for Bash.
+
+### 5. [The full Bash scripting course](https://www.youtube.com/watch?v=e7BufAVwDiM)
+A full course for bash scripting (3 hours long).<br>
+Same YouTube channel as #4 link.
