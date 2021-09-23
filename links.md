@@ -25,3 +25,15 @@ A bit like an introduction for Bash.
 ### 5. [The Full Bash Scripting Course](https://www.youtube.com/watch?v=e7BufAVwDiM)
 A full course for bash scripting (3 hours long).<br>
 Same YouTube channel as #4 link.
+
+### 6. [C Programming Tutorial for Beginners by freeCodeCamp.org](https://www.youtube.com/watch?v=KJgsSFOSQv0)
+A stacked video full of C basics with a spesific time point for each topic.<br>
+The video includes memory addresses, pointers and also file reading/writing.
+
+### 7. [Virtual Memory Playlist by David Black-Schaffer](https://www.youtube.com/watch?v=qcBIvnQt0Bw&list=PLiwt1iVUib9s2Uo5BeYmwkDFUh70fJPxX)
+A playlist of Virtual Memory explanation videos. <br>
+You might want to watch eps 1 - 4 to get a brief introduction to Virtual Memory.
+
+### 8. [Is Virtual Memory Needed?](https://stackoverflow.com/questions/14347206/what-are-the-differences-between-virtual-memory-and-physical-memory)
+Someone asked "why do we need virtual memory even when we have physical memory?" to stackoverflow.<br>
+A person replied with a detailed and organized answer.
