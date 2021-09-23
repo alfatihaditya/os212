@@ -25,3 +25,8 @@ ZCZC W02  80 L06 References/Books/Documents/GSGS related (OSC10 chapter 16 & 17,
 ZCZC W02  10 L04 GitHub Pages related (updating my LINKS)
 ZCZC W02   5 L03 GitHub related (updating mylog)
 ZCZC W02  20 L64 Helping OS related problem to a friend.
+ZCZC W03  90 L02 ZOOM meetings related
+ZCZC W03  70 L09 Assignment in General (create and extra virtual disk)
+ZCZC W03  90 L06 References/Books/Documents/GSGS related (youtube videos about c programming and virtual memory)
+ZCZC W03  15 L04 GitHub Pages related (update github page links)
+ZCZC W03  10 L03 GitHub related (update mylog.txt and myrank.txt) 
