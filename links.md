@@ -37,3 +37,7 @@ You might want to watch eps 1 - 4 to get a brief introduction to Virtual Memory.
 ### 8. [Is Virtual Memory Needed?](https://stackoverflow.com/questions/14347206/what-are-the-differences-between-virtual-memory-and-physical-memory)
 Someone asked "why do we need virtual memory even when we have physical memory?" to stackoverflow.<br>
 A person replied with a detailed and organized answer.
+
+### 9. [Pointers in C/C++](https://www.youtube.com/watch?v=h-HBipu_1P0)
+An "easy to understand" video about pointers. <br>
+It has some good examples for pointers in C/C++.
