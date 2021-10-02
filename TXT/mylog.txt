@@ -1,4 +1,4 @@
-# Log format
+#Log format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
 ZCZC W00  15 L03 GitHub related
@@ -29,4 +29,9 @@ ZCZC W03  90 L02 ZOOM meetings related
 ZCZC W03  70 L09 Assignment in General (create and extra virtual disk)
 ZCZC W03  90 L06 References/Books/Documents/GSGS related (youtube videos about c programming and virtual memory)
 ZCZC W03  15 L04 GitHub Pages related (update github page links)
-ZCZC W03  10 L03 GitHub related (update mylog.txt and myrank.txt) 
+ZCZC W03  10 L03 GitHub related (update mylog.txt and myrank.txt)
+ZCZC W04  90 L02 ZOOM meetings related
+ZCZC W04  60 L09 Assignment in General
+ZCZC W04  15 L64 Helping OS related problem to a friend
+ZCZC W04  30 L06 References/Books/Documents/GSGS related (OSC10 chapter 9)
+ZCZC W04  60 L26 C-language (learning pointer) 
