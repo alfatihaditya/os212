@@ -38,4 +38,10 @@ ZCZC W04  60 L26 C-language (learning pointer)
 ZCZC W05  90 L02 ZOOM meetings related
 ZCZC W05 150 L09 Assignment in General (had to redo the assignment because I imported the wrong ova)
 ZCZC W05  15 L03 GitHub related (update mylog.txt and myrank.txt)
-ZCZC W05  10 L04 GitHub Pages related (update github page links)
+ZCZC W05  10 L04 GitHub Pages related (update github page links
+ZCZC W06  60 L05 Quiz related
+ZCZC W06  90 L02 ZOOM meetings related
+ZCZC W06  45 L09 Assignment in General
+ZCZC W06  15 L64 Helping OS related problem to a friend
+ZCZC W06  70 L07 Demo related
+ZCZC W06  10 L03 GitHub related
