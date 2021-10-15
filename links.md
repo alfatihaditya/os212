@@ -41,3 +41,7 @@ A person replied with a detailed and organized answer.
 ### 9. [Pointers in C/C++](https://www.youtube.com/watch?v=h-HBipu_1P0)
 An "easy to understand" video about pointers. <br>
 It has some good examples for pointers in C/C++.
+
+### 10. [Visualization of a fork call in C by CodeVault](https://www.youtube.com/watch?v=QD9YKSg3wCc)
+Quick and all-round explanation of an example for fork(). <br>
+Not actually a graphical visualization. More like detailed explanation.
