@@ -45,3 +45,7 @@ It has some good examples for pointers in C/C++.
 ### 10. [Visualization of a fork call in C by CodeVault](https://www.youtube.com/watch?v=QD9YKSg3wCc)
 Quick and all-round explanation of an example for fork(). <br>
 Not actually a graphical visualization. More like detailed explanation.
+
+### 11. [Interprocess Communication by Neso Academy](https://www.youtube.com/watch?v=dJuYKfR8vec)
+A brief introduction for interprocess communication and processes concurrency. <br>
+The video is a part of Neso Academy. You might want to watch some of the series next episodes for 'shared memory' topic.
