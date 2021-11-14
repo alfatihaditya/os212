@@ -48,6 +48,13 @@ ZCZC W06  10 L03 GitHub related
 ZCZC W07  30 L05 Quiz related 
 ZCZC W07 120 L02 ZOOM meetings related
 ZCZC W07  51 L09 Assignment in General
-ZCZC W07  46 References/Books/Documents/GSGS related (youtube videos about interprocess communication and shared memory)
+ZCZC W07  46 L06 References/Books/Documents/GSGS related (youtube videos about interprocess communication and shared memory)
 ZCZC W07  15 L04 GitHub Pages related (update github page links)
 ZCZC W07  10 L03 GitHub related
+ZCZC W08  30 L05 Quiz related
+ZCZC W08 180 L02 ZOOM meetings related
+ZCZC W08 300 L09 Assignment in General
+ZCZC W08  45 L21 Trying something (tried changing the 03-LFS11-ALL-in-ONE.sh script to download from my google drive, but failed)
+ZCZC W08  70 L32 YouTube: study, etc. (youtube video about LFS)
+ZCZC W08  10 L03 GitHub related
+ZCZC W08  90 L64 Helping OS related problem to a friend
