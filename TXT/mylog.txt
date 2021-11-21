@@ -58,3 +58,6 @@ ZCZC W08  45 L21 Trying something (tried changing the 03-LFS11-ALL-in-ONE.sh scr
 ZCZC W08  70 L32 YouTube: study, etc. (youtube video about LFS)
 ZCZC W08  10 L03 GitHub related
 ZCZC W08  90 L64 Helping OS related problem to a friend
+ZCZC W09  90 L02 ZOOM meetings related
+ZCZC W09 150 L09 Assignment in General (finished chapter 6 & continued chapter 7 untill sub chapter 7.6. this is try 2)
+ZCZC W09  10 L03 GitHub related
